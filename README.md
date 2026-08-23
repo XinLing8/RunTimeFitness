@@ -56,7 +56,7 @@ This Capstone Project was collaboratively developed by:
 
 ---
 
-> 📥 **[Click here to access the full project documentation] (Documentation/CP-RUNTIME-FITNESS-FINAL-REPORT.pdf)**
+> 📥 **[Click here to access the full project documentation]([https://github.com/XinLing8/rwdd/blob/main/Documentation/CP-RUNTIME-FITNESS-FINAL-REPORT.pdf](https://github.com/XinLing8/RunTimeFitness/blob/main/Documentation/CP-RUNTIME-FITNESS-FINAL-REPORT.pdf))**
 
 ---
 
