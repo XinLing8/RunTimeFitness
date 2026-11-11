@@ -18,9 +18,9 @@ The **RUNTIME FITNESS Management System** is a web-based health and wellness pla
 This Capstone Project was collaboratively developed by:
 * **Serene Loh Zi Ting** (TP075920)
 * **Siew Zhen Lynn** (TP076386)
-* * **Sim Tian** (TP077056)
+* **Sim Tian** (TP077056)
 * **Yap Xin Ling** (TP077224)
-* * **Yeo Pei Wen** (TP077057)
+* **Yeo Pei Wen** (TP077057)
 * **Yong Xuan Lyn** (TP076797)
 
 ---
